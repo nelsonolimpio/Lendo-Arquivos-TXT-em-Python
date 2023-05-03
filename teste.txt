@@ -1,0 +1,4 @@
+Nome;Idade;Cidade
+Maria;30;São Paulo
+João;25;Rio de Janeiro
+Ana;28;Belo Horizonte
